@@ -1,5 +1,7 @@
 # TinyColor
 
+### this is a fork of the original tinycolor2 npm module. Everything that was not needed to just provide the bits of functionality we use tinycolor2 for in @instructure/ui-color-utils has been removed
+
 ## JavaScript color tooling
 
 TinyColor is a small, fast library for color manipulation and conversion in JavaScript.  It allows many forms of input, while providing color conversions and other color utility functions.  It has no dependencies.
